@@ -89,3 +89,23 @@ html {
   background: var(--lotus);
   color: #fff;
 }
+
+.review-section-title {
+    color: var(--lotus-dark) !important;
+}
+
+.review-avatar {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50% !important;
+    aspect-ratio: 1 / 1;
+}
+
+.review-customer-name {
+    color: var(--lotus-dark) !important;
+}
+
+.review-content {
+    color: var(--lotus-dark) !important;
+}
